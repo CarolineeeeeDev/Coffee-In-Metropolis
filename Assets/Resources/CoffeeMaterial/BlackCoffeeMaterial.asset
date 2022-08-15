@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9ae0630cf86a994f8963b32b30f1bb3, type: 3}
+  m_Name: BlackCoffeeMaterial
+  m_EditorClassIdentifier: 
+  name: "\u6D4B\u8BD5\u6750\u6599"
+  imag: {fileID: 0}
+  AtRawMaterialView:
+    layerName: 
+    amount: 0.173
+    density: 1
+    color: {r: 0.07075471, g: 0.5681259, b: 1, a: 0.7372549}
+    miscible: 0
+    murkiness: 0.244
+    murkColor: {r: 0.8627395, g: 1, b: 0.75, a: 0.57254905}
+    scale: 0.409
+    viscosity: 0.967
+    adjustmentSpeed: 0.18
+    bubblesOpacity: 0
+    baseLevel: 0
+    currentBaseLevel: 0
+    currentAmount: 0
+    currentColor: {r: 0, g: 0, b: 0, a: 0}
+    currentMurkiness: 0
+    currentColor2: {r: 0, g: 0, b: 0, a: 0}
+    currentBubblesOpacity: 0
